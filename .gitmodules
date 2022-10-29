@@ -1,6 +1,6 @@
-[submodule "website-backend"]
-	path = website-backend
-	url = https://github.com/GabriewF/Website-Backend.git
-[submodule "website-frontend"]
-	path = website-frontend
+[submodule "frontend"]
+	path = work/frontend
 	url = https://github.com/GabriewF/Website-Frontend.git
+[submodule "backend"]
+	path = work/backend
+	url = https://github.com/GabriewF/Website-Backend.git
