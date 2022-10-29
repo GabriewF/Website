@@ -6,8 +6,8 @@ The parent repository of the GabriewF website.
 
 This repository contains all bStats repositories as submodules. These are
 
-- `work/website-backend` - The backend of bStats.
-- `work/website-frontend` - The (new) frontend of bStats.
+- `work/website-backend` - The backend of website.
+- `work/website-frontend` - The frontend of website.
 
 This repository also provides the development environment for bStats.
 
